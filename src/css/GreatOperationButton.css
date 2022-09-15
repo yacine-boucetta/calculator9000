@@ -1,0 +1,12 @@
+.sum{
+display:flex;
+flex-direction: column;
+width:50%;
+height: 100%;
+}
+
+.sum button{
+    margin: 2%;
+    background-color: rgb(255, 181, 71);
+    border-radius: 5px;
+}
