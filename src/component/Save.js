@@ -1,4 +1,4 @@
-import '../css/MagnificientEqualButton.css';
+import '../css/Save.css';
 function Save(props){
 // const equalSign=['=']
 
@@ -6,7 +6,7 @@ function Save(props){
     <div className="save">
       <button  
       value='save'
-      onClick={props.click}>=</button>
+      onClick={props.click}>Sauvegarder</button>
       </div>
   )
 }
